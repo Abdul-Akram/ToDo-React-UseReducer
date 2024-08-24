@@ -1,7 +1,7 @@
 {
   "name": "todo",
   "private": true,
-  "homepage": "https://github.com/Abdul-Akram/ToDo-React-UseReducer.git",
+  "homepage": "https://abdul-akram.github.io/ToDo-React-UseReducer/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
